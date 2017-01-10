@@ -8,8 +8,7 @@ Requirements :</br>
 4) Create a developer account on developer.vectorwatch.com</br>
 5) Create a new stream and name it what you want.</br>
 6) Copy paste all code in Love.js from this repository to your stream code.</br>
-7) Change <code>var cloudantUrl = 'your_own_cloudant_database_url' + process.env.STREAM_UUID;
-</code> with your own database url.</br>
+7) Change <code>var cloudantUrl = 'your_own_cloudant_database_url';</code> with your own database url.</br>
 8) Change <code>apiKeyUser</code> and <code>apiKeyPassword</code> with the API key and password you noted at step 3.</br>
 
 
